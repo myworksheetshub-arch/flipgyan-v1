@@ -1,0 +1,18 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/student/dashboard/page": "app/student/dashboard/page.js",
+  "/quizzes/page": "app/quizzes/page.js",
+  "/worksheets/page": "app/worksheets/page.js",
+  "/question-papers/[id]/page": "app/question-papers/[id]/page.js",
+  "/page": "app/page.js",
+  "/study-notes/page": "app/study-notes/page.js",
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/pricing/page": "app/pricing/page.js",
+  "/question-papers/page": "app/question-papers/page.js",
+  "/(auth)/signup/page": "app/(auth)/signup/page.js",
+  "/teacher/dashboard/page": "app/teacher/dashboard/page.js",
+  "/about/page": "app/about/page.js",
+  "/classes/page": "app/classes/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/parent/dashboard/page": "app/parent/dashboard/page.js"
+}
